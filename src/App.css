@@ -51,3 +51,29 @@
   bottom: 0;
   left: 0;
 }
+.green-class {
+  background-color: green;
+  margin-right: 5px;
+  border-radius: 5px;
+  padding: 1rem;
+}
+.default-class {
+  background-color: beige;
+  margin-right: 5px;
+  border-radius: 5px;
+  padding: 1rem;
+  cursor: pointer;
+}
+.red-class {
+  background-color: red;
+  margin-right: 5px;
+  border-radius: 5px;
+  padding: 1rem;
+}
+.checked-class {
+  background-color: burlywood;
+  margin-right: 5px;
+  border-radius: 5px;
+  padding: 1rem;
+  cursor: pointer;
+}
